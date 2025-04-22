@@ -79,5 +79,5 @@ These projects were developed as part of the Bachelor's degree in Computer Scien
 This repository is licensed under the MIT License - see the LICENSE file for details.
 
 <h4 align="center">
-<img src="https://socialify.git.ci/luisbernardinello/unesp-cs-degree-courses/image?description=1&font=Rokkitt&language=1&name=1&owner=1&pattern=Floating%20Cogs&theme=Auto" alt="UNESP CS Degree Courses" width="498" height="270" />
+<img src="https://socialify.git.ci/luisbernardinello/unesp-cs-degree-courses/image?description=1&font=Rokkitt&name=1&owner=1&pattern=Floating%20Cogs&theme=Auto" alt="UNESP CS Degree Courses" width="498" height="270" />
 </h4>
