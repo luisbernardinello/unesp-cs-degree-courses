@@ -5,7 +5,7 @@
 
 ## 📋 Overview
 
-This repository contains projects, assignments, and materials from the courses I completed during my Computer Science degree at UNESP (São Paulo State University) in Bauru. Each discipline is organized in its own directory, showcasing the practical work and knowledge acquired throughout my academic journey.
+This repository contains projects, assignments, and materials from the courses I completed during my Computer Science degree at UNESP (São Paulo State University) in Bauru.
 
 ## 🎓 Disciplines Included
 
