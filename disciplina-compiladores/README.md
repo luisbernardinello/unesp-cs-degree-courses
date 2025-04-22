@@ -125,9 +125,3 @@ palavra chave valor: 4    // BEGIN
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-<h4 align="center">
-
-<img src="https://socialify.git.ci/luisbernardinello/compilers/image?language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" alt="Compilers" width="498" height="270" />
-
-</h4>

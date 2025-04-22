@@ -80,9 +80,3 @@ This implementation demonstrates the use of semaphores for process synchronizati
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-<h4 align="center" style="display:flex; flex-direction: row; justify-content: center; align-items: center">
-
-<img src="https://socialify.git.ci/luisbernardinello/operating-systems/image?description=1&font=Rokkitt&language=1&name=1&owner=1&pattern=Floating%20Cogs&theme=Auto" alt="Operating Systems" width="498" height="270" />
-
-</h4>

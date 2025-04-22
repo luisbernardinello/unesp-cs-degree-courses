@@ -100,7 +100,3 @@ The following methods for solving linear systems have been implemented:
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-<h4 align="center">
-<img src="https://socialify.git.ci/luisbernardinello/numerical-methods/image?font=Raleway&language=1&name=1&owner=1&pattern=Overlapping%20Hexagons&theme=Auto" alt="Numerical Methods" width="498" height="270" />
-</h4>

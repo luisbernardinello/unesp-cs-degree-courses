@@ -14,7 +14,3 @@ This repository contains Python implementations of various artificial intelligen
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-<h4 align="center">
-<img src="https://socialify.git.ci/luisbernardinello/artificial-intelligence/image?font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Overlapping%20Hexagons&theme=Auto" alt="artificial-intelligence" width="498" height="270" />
-</h4>

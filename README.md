@@ -12,6 +12,7 @@ This repository contains projects, assignments, and materials from the courses I
 The repository currently includes the following courses:
 
 - **Compiladores (Compilers)**: Implementation of lexical, syntactic, and semantic analyzers
+- **Estruturas de Dados (Data Structures)**: Implementation of fundamental data structures and algorithms
 - **Inteligência Artificial (Artificial Intelligence)**: ML algorithms, search techniques, and intelligent systems
 - **Métodos Numéricos (Numerical Methods)**: Mathematical algorithms for numerical analysis and scientific computing
 - **Programação Orientada a Objetos (Object-Oriented Programming)**: OOP concepts, design patterns, and software development
@@ -22,12 +23,15 @@ The repository currently includes the following courses:
 Each discipline is contained in its own directory with the following naming convention:
 
 ```
+
 disciplina-[course-name]
+
 ```
 
 For example:
 
 - `disciplina-compiladores`
+- `disciplina-estruturas-de-dados`
 - `disciplina-inteligencia-artificial`
 - `disciplina-metodos-numericos`
 - `disciplina-programacao-orientada-a-objetos`
@@ -48,6 +52,10 @@ Implementation of a C language microkernel project that simulates multiprogrammi
 ### Compilers
 
 Development of lexical, syntactic, and semantic analyzers for a custom programming language.
+
+### Data Structures
+
+Implementation of fundamental data structures and algorithms essential for efficient program design and problem-solving.
 
 ### Artificial Intelligence
 

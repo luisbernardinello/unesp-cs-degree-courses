@@ -129,7 +129,3 @@ Each project follows a structured organization:
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-<h4 align="center">
-<img src="https://socialify.git.ci/luisbernardinello/object-oriented-programming/image?font=Raleway&language=1&name=1&owner=1&pattern=Solid&theme=Auto" alt="object-oriented-programming" width="498" height="270" />
-</h4>
